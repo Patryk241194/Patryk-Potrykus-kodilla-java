@@ -13,7 +13,10 @@ repositories {
 }
 
 dependencies {
+    // External Dependencies
     implementation 'org.springframework.boot:spring-boot-starter-web'
+
+    // Test Dependencies
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 
